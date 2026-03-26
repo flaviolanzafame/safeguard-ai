@@ -17,10 +17,10 @@ The full Python code for SafeGuard AI is available here:
 ## 👥 Project Team
 
 **Developed by:**  
-- Flavio Lanzafame  
-- Luigi Larecchiuta  
-- Carmelo Vicari
-- Carmelo Vicari
+- Flavio Lanzafame ([@flaviolanzafame](https://github.com/flaviolanzafame))  
+- Luigi Larecchiuta ([@Luigi879](https://github.com/Luigi879))  
+- Carmelo Vicari ([@carmelo19vicari](https://github.com/carmelo19vicari))  
+- Carmelo Vicari ([@VicariCarmelo8](https://github.com/VicariCarmelo8))
 
 **Context:**  
 This project was created as part of the **Artificial Intelligence course within the RiseVET program**. RiseVET is an educational initiative promoting innovation, skill development, and experimentation in emerging technologies. Student groups create practical projects and prototypes, exploring AI, IoT, and smart home concepts. SafeGuard AI is one such prototype.
