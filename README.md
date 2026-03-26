@@ -1,49 +1,95 @@
-# RiseVET — SAFEGUARD AI
+# 🛡️ SafeGuard AI — RiseVET AI Project
 
-**Mini IA per Sicurezza Intelligente**
+![SafeGuard AI Logo](assets/safeguardai-logo.png)
 
-SAFEGUARD AI è un prototipo di sistema di sicurezza domestica basato su machine learning che classifica eventi rilevati dai sensori di una casa (movimento, suono, temperatura). Usa un **Random Forest Classifier** per identificare la natura di ogni evento e suggerire azioni appropriate.
-
----
-
-## Caratteristiche principali
-
-- **Classificazione eventi**:
-  - **NORMALE**: attività di routine senza anomalie
-  - **ANIMALE**: presenza di animali domestici
-  - **PERSONA**: possibile intrusione umana
-  - **EMERGENZA**: situazioni critiche (es. incendi)
-- **Visualizzazione dati**: grafici delle medie dei sensori per tipo di evento
-- **Valutazione modello ML**: accuratezza e matrice di confusione
-- **Simulatore di eventi**: test rapido di nuovi eventi con azioni consigliate
+**“The security that knows when it really matters.”**  
+*Fewer false alarms. More control. True peace of mind.*
 
 ---
 
-## Tecnologie e librerie
+## 👥 Project Team
 
-- Python 3
-- Librerie: `numpy`, `pandas`, `matplotlib`, `scikit-learn`
-- Modello ML: **Random Forest Classifier** con 50 alberi
+**Developed by:**  
+- Flavio Lanzafame  
+- Luigi Larecchiuta  
+- Carmelo Vicari  
+- Carmelo Vicari  
 
----
-
-## Dataset
-
-Dataset generato artificialmente, 400 eventi suddivisi in 4 classi:
-
-- **NORMALE**: 160 eventi  
-- **ANIMALE**: 110 eventi  
-- **PERSONA**: 90 eventi  
-- **EMERGENZA**: 40 eventi  
-
-Ogni evento contiene:  
-`movimento`, `suono`, `temp`, `evento`
+**Context:** This project was created as part of the **Artificial Intelligence course within the RiseVET program**.  
+RiseVET is an educational initiative that supports innovation, skill development, and experimentation in emerging technologies.  
+Student groups create practical projects and prototypes, exploring AI, IoT, and smart home concepts. SafeGuard AI is one such prototype.
 
 ---
 
-## Come usare il progetto
+## 🚀 About SafeGuard AI
 
-1. **Installazione librerie**:
+SafeGuard AI is a **Smart Home Security system** designed to reduce false alarms while maintaining real protection.
 
-```bash
-pip install numpy pandas matplotlib scikit-learn
+**Problem:** Traditional security systems trigger alarms for any movement, even harmless events (like pets), causing stress and unnecessary alerts.
+
+**Solution:** SafeGuard AI analyzes **motion, sound, and temperature/fume sensors** using **machine learning** to classify events and alert users **only when necessary**.
+
+![SafeGuard AI Product Concept](assets/safeguardai-product.png)
+
+---
+
+## 🎯 Target Audience
+
+SafeGuard AI is designed for:  
+
+- Families  
+- Homeowners  
+- Professionals  
+
+Especially useful in **homes with pets or dynamic environments**, reducing false alarms.
+
+---
+
+## ⚠️ The Problem
+
+Traditional home security systems:  
+
+- Do not understand context  
+- Trigger frequent false alarms  
+- Cause unnecessary interventions  
+- Reduce trust in the system  
+
+---
+
+## 💡 The Solution
+
+SafeGuard AI uses **multi-sensor analysis + Random Forest ML** to classify events:
+
+1. **Context Interpretation** – Understands what is happening  
+2. **Event Classification** – Detects humans, animals, emergencies  
+3. **Intelligent Action** – Alerts only when needed  
+
+> Discreet, intelligent, reliable protection that restores confidence and control.
+
+---
+
+## 🧰 Technologies
+
+- **IoT Sensors:** Motion, sound, temperature/fume  
+- **Machine Learning:** Random Forest Classifier  
+- **Edge Computing:** Local processing for fast response  
+
+---
+
+## 🛠️ How It Works (Python Demo)
+
+**Workflow:**
+
+1. **Dataset:** 400 simulated events labeled `NORMAL`, `ANIMAL`, `PERSON`, `EMERGENCY`  
+2. **EDA:** Visualizes average sensor values per event type  
+3. **ML Model:** Random Forest Classifier predicts event type  
+4. **Simulator:** Test new events and receive actionable alerts  
+
+![SafeGuard AI Simulator Example](assets/safeguardai-use.png)
+
+**Example output:**
+
+```text
+'Falling leaf' → NORMAL: No action needed.
+'Cat on the sofa' → ANIMAL: Logged. No alarm triggered.
+'Possible fire' → EMERGENCY: ALERT — Call emergency services!
