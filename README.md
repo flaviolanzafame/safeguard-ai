@@ -7,17 +7,23 @@
 
 ---
 
+## 🔗 Source Code
+
+The full Python code for SafeGuard AI is available here:  
+[`safeguard_ai.py`](./safeguard_ai.py)
+
+---
+
 ## 👥 Project Team
 
 **Developed by:**  
 - Flavio Lanzafame  
 - Luigi Larecchiuta  
-- Carmelo Vicari  
-- Carmelo Vicari  
+- Carmelo Vicari
+- Carmelo Vicari
 
-**Context:** This project was created as part of the **Artificial Intelligence course within the RiseVET program**.  
-RiseVET is an educational initiative that supports innovation, skill development, and experimentation in emerging technologies.  
-Student groups create practical projects and prototypes, exploring AI, IoT, and smart home concepts. SafeGuard AI is one such prototype.
+**Context:**  
+This project was created as part of the **Artificial Intelligence course within the RiseVET program**. RiseVET is an educational initiative promoting innovation, skill development, and experimentation in emerging technologies. Student groups create practical projects and prototypes, exploring AI, IoT, and smart home concepts. SafeGuard AI is one such prototype.
 
 ---
 
@@ -85,7 +91,7 @@ SafeGuard AI uses **multi-sensor analysis + Random Forest ML** to classify event
 3. **ML Model:** Random Forest Classifier predicts event type  
 4. **Simulator:** Test new events and receive actionable alerts  
 
-![SafeGuard AI Simulator Example](assets/safeguardai-use.png)
+![SafeGuard AI in Daily Use](assets/safeguardai-use.png)
 
 **Example output:**
 
@@ -93,3 +99,23 @@ SafeGuard AI uses **multi-sensor analysis + Random Forest ML** to classify event
 'Falling leaf' → NORMAL: No action needed.
 'Cat on the sofa' → ANIMAL: Logged. No alarm triggered.
 'Possible fire' → EMERGENCY: ALERT — Call emergency services!
+```
+
+---
+
+## 🔗 Project Context
+
+SafeGuard AI was developed in the **RiseVET educational program**, which encourages students to create **practical AI prototypes** and explore applications of IoT and machine learning in real-world scenarios.  
+This project demonstrates how AI can reduce false alarms in smart home security while providing actionable notifications.
+
+---
+
+
+## 🛡️ How SafeGuard AI Makes a Difference
+
+* **Reduces stress** caused by false alarms  
+* **Protects real threats** efficiently  
+* **Integrates seamlessly** with smart home sensors  
+* **Provides actionable notifications** only when needed  
+
+> SafeGuard AI is a **student prototype** demonstrating how AI can make home security smarter, context-aware, and reliable.
