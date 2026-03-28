@@ -14,6 +14,10 @@
 
 <br>
 
+🇮🇹 [Leggi in italiano](README.it.md) · 🇬🇧 **English**
+
+<br>
+
 > **SafeGuard AI** is a smart home security prototype that uses machine learning to distinguish real threats from harmless events — so your alarm only goes off when it truly matters.
 
 <br>
