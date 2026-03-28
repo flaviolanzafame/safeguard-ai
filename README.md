@@ -14,19 +14,6 @@ The full Python code for SafeGuard AI is available here:
 
 ---
 
-## 👥 Project Team
-
-**Developed by:**  
-- Flavio Lanzafame ([@flaviolanzafame](https://github.com/flaviolanzafame))  
-- Luigi Larecchiuta ([@Luigi879](https://github.com/Luigi879))  
-- Carmelo Vicari ([@carmelo19vicari](https://github.com/carmelo19vicari))  
-- Carmelo Vicari ([@VicariCarmelo8](https://github.com/VicariCarmelo8))
-
-**Context:**  
-This project was created as part of the **Artificial Intelligence course within the RiseVET program**. RiseVET is an educational initiative promoting innovation, skill development, and experimentation in emerging technologies. Student groups create practical projects and prototypes, exploring AI, IoT, and smart home concepts. SafeGuard AI is one such prototype.
-
----
-
 ## 🚀 About SafeGuard AI
 
 SafeGuard AI is a **Smart Home Security system** designed to reduce false alarms while maintaining real protection.
@@ -100,16 +87,7 @@ SafeGuard AI uses **multi-sensor analysis + Random Forest ML** to classify event
 'Cat on the sofa' → ANIMAL: Logged. No alarm triggered.
 'Possible fire' → EMERGENCY: ALERT — Call emergency services!
 ```
-
 ---
-
-## 🔗 Project Context
-
-SafeGuard AI was developed in the **RiseVET educational program**, which encourages students to create **practical AI prototypes** and explore applications of IoT and machine learning in real-world scenarios.  
-This project demonstrates how AI can reduce false alarms in smart home security while providing actionable notifications.
-
----
-
 
 ## 🛡️ How SafeGuard AI Makes a Difference
 
@@ -119,3 +97,16 @@ This project demonstrates how AI can reduce false alarms in smart home security 
 * **Provides actionable notifications** only when needed  
 
 > SafeGuard AI is a **student prototype** demonstrating how AI can make home security smarter, context-aware, and reliable.
+
+---
+
+## 👥 Project Team
+
+**Developed by:**  
+- Flavio Lanzafame ([@flaviolanzafame](https://github.com/flaviolanzafame))  
+- Luigi Larecchiuta ([@Luigi879](https://github.com/Luigi879))  
+- Carmelo Vicari ([@carmelo19vicari](https://github.com/carmelo19vicari))  
+- Carmelo Vicari ([@VicariCarmelo8](https://github.com/VicariCarmelo8))
+
+**Context:**  
+This project was created as part of the **Artificial Intelligence course within the RiseVET program**. RiseVET is an educational initiative promoting innovation, skill development, and experimentation in emerging technologies. Student groups create practical projects and prototypes, exploring AI, IoT, and smart home concepts. SafeGuard AI is one such prototype.
