@@ -1,5 +1,3 @@
-
-
 # 🛡️ SafeGuard AI
 
 ### *"The security that knows when it really matters."*
