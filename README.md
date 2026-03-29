@@ -12,7 +12,7 @@
 
 <br>
 
-🇮🇹 [Leggi in italiano](README.it.md) · 🇬🇧 **English**
+<a href="README.it.md"><img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Leggi in italiano</a> &nbsp;·&nbsp; <img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> **English**
 
 <br>
 
@@ -21,8 +21,6 @@
 <br>
 
 [📦 Source Code](#-source-code) · [🚀 Getting Started](#-getting-started) · [⚙️ How It Works](#%EF%B8%8F-how-it-works) · [📊 Results](#-results) · [👥 Team](#-team)
-
-</div>
 
 ---
 
@@ -171,8 +169,6 @@ The model achieves strong classification performance thanks to the well-separate
 - **`safeguard_eda_plot.png`** — bar chart of average sensor readings per event type
 - **`safeguard_confusion_matrix.png`** — heatmap of predicted vs. actual labels
 
-The confusion matrix highlights any overlap between similar classes (e.g., `ANIMAL` vs `PERSON`), reflecting realistic ambiguity in real-world sensor data and pointing to areas for future improvement.
-
 | Parameter | Value |
 |---|---|
 | Algorithm | Random Forest Classifier |
@@ -203,7 +199,5 @@ Released under the [MIT License](LICENSE).
 <div align="center">
 
 Built with Python · scikit-learn · pandas · matplotlib
-
-*RiseVET AI Course — SafeGuard AI Project*
 
 </div>
