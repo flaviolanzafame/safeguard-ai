@@ -19,7 +19,7 @@
  
 ## 📑 Table of Contents
  
-- [⚠️ The Problem](#-the-problem)
+- [⚠️ The Problem](#%EF%B8%8F-the-problem)
 - [💡 The Solution](#-the-solution)
 - [🎯 Who Is It For?](#-who-is-it-for)
 - [🧰 Technology Stack](#-technology-stack)
