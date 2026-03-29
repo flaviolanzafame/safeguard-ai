@@ -184,7 +184,7 @@ Grazie alla buona separazione dei valori tra le classi, il modello raggiunge un'
 
 ## 👥 Team
 
-Progetto sviluppato nell'ambito del corso di **Intelligenza artificiale** del programma **[RiseVET](https://risevet.eu)** — un'iniziativa che porta studenti a sperimentare con IA, IoT e tecnologie emergenti attraverso prototipi reali.
+Progetto sviluppato nell'ambito del corso di **Intelligenza artificiale** del **[progetto RiseVET](https://risevet.eu)** — un'iniziativa che porta studenti a sperimentare con IA, IoT e tecnologie emergenti attraverso prototipi reali.
 
 - **Flavio Lanzafame** — [@flaviolanzafame](https://github.com/flaviolanzafame)
 - **Luigi Larecchiuta** — [@Luigi879](https://github.com/Luigi879)
