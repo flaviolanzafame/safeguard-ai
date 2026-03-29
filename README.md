@@ -181,12 +181,14 @@ The model achieves strong classification performance thanks to the well-separate
 
 ## 👥 Team
 
-Developed by students as part of the **Artificial Intelligence course** within the **[RiseVET](https://risevet.eu) program** — an educational initiative promoting hands-on experimentation with AI, IoT, and emerging technologies.
+Developed by students as part of the **Artificial Intelligence course** within the **[RiseVET](https://risevet.eu) program** — an educational initiative promoting hands-on experimentation with AI and emerging technologies.
 
 - **Flavio Lanzafame** — [@flaviolanzafame](https://github.com/flaviolanzafame)
 - **Luigi Larecchiuta** — [@Luigi879](https://github.com/Luigi879)
 - **Carmelo Vicari** — [@carmelo19vicari](https://github.com/carmelo19vicari)
 - **Carmelo Vicari** — [@VicariCarmelo8](https://github.com/VicariCarmelo8)
+
+**Instructor:** Luisa Gangi Chiodo — [@lujsa](https://github.com/lujsa)
 
 ---
 
