@@ -12,7 +12,9 @@
 
 <br>
 
-🇬🇧 [Read in English](README.md) · 🇮🇹 **Italiano**
+<a href="README.md"><img src="https://flagcdn.com/w20/gb.png" width="20"/> Read in English</a>
+&nbsp;·&nbsp;
+<img src="https://flagcdn.com/w20/it.png" width="20"/> **Italiano**
 
 <br>
 
