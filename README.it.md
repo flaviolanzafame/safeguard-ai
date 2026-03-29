@@ -13,8 +13,7 @@
 
 ---
 
-**SafeGuard AI** è un prototipo di sistema di sicurezza domestica intelligente.  
-Analizza i dati di tre sensori in tempo reale e distingue le minacce reali dagli eventi innocui — così l'allarme scatta solo quando serve davvero.
+**SafeGuard AI** è un prototipo di sistema di sicurezza domestica intelligente che analizza i dati di tre sensori in tempo reale e distingue le minacce reali dagli eventi innocui, così l'allarme scatta solo quando serve davvero.
 
 ---
  
