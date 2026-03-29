@@ -205,6 +205,4 @@ Rilasciato sotto [Licenza MIT](LICENSE).
 
 Realizzato con Python · scikit-learn · pandas · matplotlib
 
-*Corso AI RiseVET — SafeGuard AI*
-
 </div>
