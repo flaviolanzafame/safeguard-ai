@@ -97,7 +97,9 @@ safeguard-ai/
 │   └── safeguardai-use.png
 ├── safeguard_eda_plot.png         # Generato automaticamente
 ├── safeguard_confusion_matrix.png # Generato automaticamente
-└── README.md
+├── README.md                      # English
+├── README.it.md                   # Italiano
+└── LICENSE                        # Licenza
 ```
 
 👉 [`safeguard_ai.py`](./safeguard_ai.py)
