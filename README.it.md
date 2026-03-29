@@ -188,6 +188,8 @@ Progetto sviluppato nell'ambito del corso di **Intelligenza artificiale** del pr
 - **Luigi Larecchiuta** — [@Luigi879](https://github.com/Luigi879)
 - **Carmelo Vicari** — [@carmelo19vicari](https://github.com/carmelo19vicari)
 - **Carmelo Vicari** — [@VicariCarmelo8](https://github.com/VicariCarmelo8)
+  
+**Docente:** Luisa Gangi Chiodo — [@lujsa](https://github.com/lujsa)
 
 ---
 
