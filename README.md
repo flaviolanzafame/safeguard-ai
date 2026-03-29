@@ -96,7 +96,9 @@ safeguard-ai/
 │   └── safeguardai-use.png
 ├── safeguard_eda_plot.png         # Auto-generated: sensor averages per class
 ├── safeguard_confusion_matrix.png # Auto-generated: model evaluation
-└── README.md
+├── README.md                      # English
+├── README.it.md                   # Italiano
+└── LICENSE
 ```
 
 👉 [`safeguard_ai.py`](./safeguard_ai.py)
