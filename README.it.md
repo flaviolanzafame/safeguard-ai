@@ -1,8 +1,5 @@
 # 🛡️ SafeGuard AI
 
-### *"La sicurezza che capisce quando è davvero il momento."*
-*Meno falsi allarmi. Più controllo. Vera tranquillità.*
-
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,21 +9,28 @@
 
 <br>
 
-<a href="README.md"><img src="https://flagcdn.com/w20/gb.png" width="20"/> Read in English</a>
-&nbsp;·&nbsp;
-<img src="https://flagcdn.com/w20/it.png" width="20"/> **Italiano**
+🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Italian](README.it.md)
 
-<br>
+---
 
-> **SafeGuard AI** è un prototipo di sistema di sicurezza domestica intelligente.  
-> Analizza i dati di tre sensori in tempo reale e distingue le minacce reali dagli eventi innocui — così l'allarme scatta solo quando serve davvero.
+**SafeGuard AI** è un prototipo di sistema di sicurezza domestica intelligente.  
+Analizza i dati di tre sensori in tempo reale e distingue le minacce reali dagli eventi innocui — così l'allarme scatta solo quando serve davvero.
 
-<br>
-
-[📦 Codice](#-codice) · [🚀 Installazione](#-installazione) · [⚙️ Come funziona](#%EF%B8%8F-come-funziona) · [📊 Risultati](#-risultati) · [👥 Team](#-team)
-
-</div>
-
+---
+ 
+## 📑 Indice
+ 
+- [⚠️ Il problema](#%EF%B8%8F-il-problema)
+- [💡 La soluzione](#-la-soluzione)
+- [🎯 A chi serve](#-a-chi-serve)
+- [🧰 Tecnologie utilizzate](#-tecnologie-utilizzate)
+- [📦 Codice](#-codice)
+- [🚀 Installazione](#-installazione)
+- [⚙️ Come funziona](#%EF%B8%8F-come-funziona)
+- [📊 Risultati](#-risultati)
+- [👥 Team](#-team)
+- [📄 Licenza](#-licenza)
+ 
 ---
 
 ## ⚠️ Il problema
