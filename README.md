@@ -1,27 +1,35 @@
 # 🛡️ SafeGuard AI
-
-### *"The security that knows when it really matters."*
-*Fewer false alarms. More control. True peace of mind.*
-
+ 
 <br>
-
+ 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Prototype-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
-
+ 
 <br>
-
-<a href="README.it.md"><img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Leggi in italiano</a> &nbsp;·&nbsp; <img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> **English**
-
-<br>
-
-> **SafeGuard AI** is a smart home security prototype that uses machine learning to distinguish real threats from harmless events — so your alarm only goes off when it truly matters.
-
-<br>
-
-[📦 Source Code](#-source-code) · [🚀 Getting Started](#-getting-started) · [⚙️ How It Works](#%EF%B8%8F-how-it-works) · [📊 Results](#-results) · [👥 Team](#-team)
-
+ 
+🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Italian](README.it.md)
+ 
+---
+ 
+**SafeGuard AI** is a smart home security prototype that uses machine learning to distinguish real threats from harmless events — so your alarm only goes off when it truly matters.
+ 
+---
+ 
+## 📑 Table of Contents
+ 
+- [⚠️ The Problem](#-the-problem)
+- [💡 The Solution](#-the-solution)
+- [🎯 Who Is It For?](#-who-is-it-for)
+- [🧰 Technology Stack](#-technology-stack)
+- [📦 Source Code](#-source-code)
+- [🚀 Getting Started](#-getting-started)
+- [⚙️ How It Works](#-how-it-works)
+- [📊 Results](#-results)
+- [👥 Team](#-team)
+- [📄 License](#-license)
+ 
 ---
 
 ## ⚠️ The Problem
