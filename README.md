@@ -25,7 +25,7 @@
 - [🧰 Technology Stack](#-technology-stack)
 - [📦 Source Code](#-source-code)
 - [🚀 Getting Started](#-getting-started)
-- [⚙️ How It Works](#-how-it-works)
+- [⚙️ How It Works](#%EF%B8%8F-how-it-works)
 - [📊 Results](#-results)
 - [👥 Team](#-team)
 - [📄 License](#-license)
