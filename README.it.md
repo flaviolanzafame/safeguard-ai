@@ -1,3 +1,7 @@
+🌍 This README is available in:&nbsp;&nbsp;[<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/gb-flag.svg" width="20" alt="EN"/> English](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[**<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/it-flag.svg" width="20" alt="IT"/> Italian**](README.it.md)
+
+---
+
 # 🛡️ SafeGuard AI
 
 <br>
@@ -6,12 +10,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Stato](https://img.shields.io/badge/Stato-Prototipo-brightgreen?style=for-the-badge)
 ![Licenza](https://img.shields.io/badge/Licenza-MIT-lightgrey?style=for-the-badge)
-
----
-
-🌍 This README is available in:&nbsp;&nbsp;[<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/gb-flag.svg" width="20" alt="EN"/> English](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[**<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/it-flag.svg" width="20" alt="IT"/> Italian**](README.it.md)
-
----
 
 **SafeGuard AI** è un prototipo di sistema di sicurezza domestica intelligente che analizza i dati di tre sensori in tempo reale e distingue le minacce reali dagli eventi innocui, così l'allarme scatta solo quando serve davvero.
 
