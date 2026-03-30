@@ -1,29 +1,33 @@
+🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/gb-flag.svg" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/it-flag.svg" width="20" alt="IT"/> Italian](README.it.md)
+
+---
+
 # 🛡️ SafeGuard AI
-
-### *"The security that knows when it really matters."*
-*Fewer false alarms. More control. True peace of mind.*
-
+ 
 <br>
-
+ 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Prototype-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
-
-<br>
-
-🇮🇹 [Leggi in italiano](README.it.md) · 🇬🇧 **English**
-
-<br>
-
-> **SafeGuard AI** is a smart home security prototype that uses machine learning to distinguish real threats from harmless events — so your alarm only goes off when it truly matters.
-
-<br>
-
-[📦 Source Code](#-source-code) · [🚀 Getting Started](#-getting-started) · [⚙️ How It Works](#%EF%B8%8F-how-it-works) · [📊 Results](#-results) · [👥 Team](#-team)
-
-</div>
-
+ 
+**SafeGuard AI** is a smart home security prototype that uses machine learning to distinguish real threats from harmless events — so your alarm only goes off when it truly matters.
+ 
+---
+ 
+## 📑 Table of Contents
+ 
+- [⚠️ The Problem](#%EF%B8%8F-the-problem)
+- [💡 The Solution](#-the-solution)
+- [🎯 Who Is It For?](#-who-is-it-for)
+- [🧰 Technology Stack](#-technology-stack)
+- [📦 Source Code](#-source-code)
+- [🚀 Getting Started](#-getting-started)
+- [⚙️ How It Works](#%EF%B8%8F-how-it-works)
+- [📊 Results](#-results)
+- [👥 Team](#-team)
+- [📄 License](#-license)
+ 
 ---
 
 ## ⚠️ The Problem
@@ -98,7 +102,9 @@ safeguard-ai/
 │   └── safeguardai-use.png
 ├── safeguard_eda_plot.png         # Auto-generated: sensor averages per class
 ├── safeguard_confusion_matrix.png # Auto-generated: model evaluation
-└── README.md
+├── README.md                      # English
+├── README.it.md                   # Italian
+└── LICENSE
 ```
 
 👉 [`safeguard_ai.py`](./safeguard_ai.py)
@@ -171,8 +177,6 @@ The model achieves strong classification performance thanks to the well-separate
 - **`safeguard_eda_plot.png`** — bar chart of average sensor readings per event type
 - **`safeguard_confusion_matrix.png`** — heatmap of predicted vs. actual labels
 
-The confusion matrix highlights any overlap between similar classes (e.g., `ANIMAL` vs `PERSON`), reflecting realistic ambiguity in real-world sensor data and pointing to areas for future improvement.
-
 | Parameter | Value |
 |---|---|
 | Algorithm | Random Forest Classifier |
@@ -185,12 +189,14 @@ The confusion matrix highlights any overlap between similar classes (e.g., `ANIM
 
 ## 👥 Team
 
-Developed by students as part of the **Artificial Intelligence course** within the **[RiseVET](https://risevet.eu) program** — an educational initiative promoting hands-on experimentation with AI, IoT, and emerging technologies.
+Developed by students as part of the **Artificial Intelligence course** within the **[RiseVET project](https://risevet.eu)** — an educational initiative promoting hands-on experimentation with AI and emerging technologies.
 
 - **Flavio Lanzafame** — [@flaviolanzafame](https://github.com/flaviolanzafame)
 - **Luigi Larecchiuta** — [@Luigi879](https://github.com/Luigi879)
 - **Carmelo Vicari** — [@carmelo19vicari](https://github.com/carmelo19vicari)
 - **Carmelo Vicari** — [@VicariCarmelo8](https://github.com/VicariCarmelo8)
+
+**Instructor:** Luisa Gangi Chiodo — [@lujsa](https://github.com/lujsa)
 
 ---
 
@@ -203,7 +209,5 @@ Released under the [MIT License](LICENSE).
 <div align="center">
 
 Built with Python · scikit-learn · pandas · matplotlib
-
-*RiseVET AI Course — SafeGuard AI Project*
 
 </div>

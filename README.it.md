@@ -1,7 +1,8 @@
-# 🛡️ SafeGuard AI
+🌍 This README is available in:&nbsp;&nbsp;[<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/gb-flag.svg" width="20" alt="EN"/> English](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[**<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/it-flag.svg" width="20" alt="IT"/> Italian**](README.it.md)
 
-### *"La sicurezza che capisce quando è davvero il momento."*
-*Meno falsi allarmi. Più controllo. Vera tranquillità.*
+---
+
+# 🛡️ SafeGuard AI
 
 <br>
 
@@ -10,21 +11,23 @@
 ![Stato](https://img.shields.io/badge/Stato-Prototipo-brightgreen?style=for-the-badge)
 ![Licenza](https://img.shields.io/badge/Licenza-MIT-lightgrey?style=for-the-badge)
 
-<br>
+**SafeGuard AI** è un prototipo di sistema di sicurezza domestica intelligente che analizza i dati di tre sensori in tempo reale e distingue le minacce reali dagli eventi innocui, così l'allarme scatta solo quando serve davvero.
 
-🇬🇧 [Read in English](README.md) · 🇮🇹 **Italiano**
-
-<br>
-
-> **SafeGuard AI** è un prototipo di sistema di sicurezza domestica intelligente.  
-> Analizza i dati di tre sensori in tempo reale e distingue le minacce reali dagli eventi innocui — così l'allarme scatta solo quando serve davvero.
-
-<br>
-
-[📦 Codice](#-codice) · [🚀 Installazione](#-installazione) · [⚙️ Come funziona](#%EF%B8%8F-come-funziona) · [📊 Risultati](#-risultati) · [👥 Team](#-team)
-
-</div>
-
+---
+ 
+## 📑 Indice
+ 
+- [⚠️ Il problema](#%EF%B8%8F-il-problema)
+- [💡 La soluzione](#-la-soluzione)
+- [🎯 A chi serve](#-a-chi-serve)
+- [🧰 Tecnologie utilizzate](#-tecnologie-utilizzate)
+- [📦 Codice](#-codice)
+- [🚀 Installazione](#-installazione)
+- [⚙️ Come funziona](#%EF%B8%8F-come-funziona)
+- [📊 Risultati](#-risultati)
+- [👥 Team](#-team)
+- [📄 Licenza](#-licenza)
+ 
 ---
 
 ## ⚠️ Il problema
@@ -95,7 +98,9 @@ safeguard-ai/
 │   └── safeguardai-use.png
 ├── safeguard_eda_plot.png         # Generato automaticamente
 ├── safeguard_confusion_matrix.png # Generato automaticamente
-└── README.md
+├── README.md                      # English
+├── README.it.md                   # Italiano
+└── LICENSE                        # Licenza
 ```
 
 👉 [`safeguard_ai.py`](./safeguard_ai.py)
@@ -180,12 +185,14 @@ Grazie alla buona separazione dei valori tra le classi, il modello raggiunge un'
 
 ## 👥 Team
 
-Progetto sviluppato nell'ambito del corso di **Intelligenza artificiale** del programma **[RiseVET](https://risevet.eu)** — un'iniziativa che porta studenti a sperimentare con IA, IoT e tecnologie emergenti attraverso prototipi reali.
+Progetto sviluppato nell'ambito del corso di **Intelligenza artificiale** del **[progetto RiseVET](https://risevet.eu)** — un'iniziativa che porta studenti a sperimentare con IA e tecnologie emergenti attraverso prototipi reali.
 
 - **Flavio Lanzafame** — [@flaviolanzafame](https://github.com/flaviolanzafame)
 - **Luigi Larecchiuta** — [@Luigi879](https://github.com/Luigi879)
 - **Carmelo Vicari** — [@carmelo19vicari](https://github.com/carmelo19vicari)
 - **Carmelo Vicari** — [@VicariCarmelo8](https://github.com/VicariCarmelo8)
+  
+**Docente:** Luisa Gangi Chiodo — [@lujsa](https://github.com/lujsa)
 
 ---
 
@@ -198,7 +205,5 @@ Rilasciato sotto [Licenza MIT](LICENSE).
 <div align="center">
 
 Realizzato con Python · scikit-learn · pandas · matplotlib
-
-*Corso AI RiseVET — SafeGuard AI*
 
 </div>
