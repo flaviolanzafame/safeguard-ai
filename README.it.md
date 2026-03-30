@@ -7,9 +7,9 @@
 ![Stato](https://img.shields.io/badge/Stato-Prototipo-brightgreen?style=for-the-badge)
 ![Licenza](https://img.shields.io/badge/Licenza-MIT-lightgrey?style=for-the-badge)
 
-<br>
+---
 
-🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Italian](README.it.md)
+🌍 This README is available in:&nbsp;&nbsp;[**<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/gb-flag.svg" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="https://github.com/flaviolanzafame/flaviolanzafame/raw/main/flags/it-flag.svg" width="20" alt="IT"/> Italian](README.it.md)
 
 ---
 
