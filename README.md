@@ -9,8 +9,8 @@ Fewer false alarms. More control. True peace of mind.
 [![Status](https://img.shields.io/badge/Status-Prototype-brightgreen?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](LICENSE)
  
-**SafeGuard AI** is a smart home security prototype that uses machine learning to distinguish real threats from harmless events — so your alarm only goes off when it truly matters.
- 
+Console-based smart home security prototype developed in Python using machine learning. SafeGuard AI uses multi-sensor fusion and a Random Forest classifier to distinguish real threats from harmless events — reducing false alarms and delivering true peace of mind.
+
 ---
  
 ## 📑 Table of Contents
