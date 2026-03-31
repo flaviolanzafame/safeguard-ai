@@ -1,11 +1,13 @@
 # 🛡️ SafeGuard AI
- 
+### "The security that knows when it really matters."
+Fewer false alarms. More control. True peace of mind.
+
 <br>
- 
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Prototype-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Status](https://img.shields.io/badge/Status-Prototype-brightgreen?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](LICENSE)
  
 **SafeGuard AI** is a smart home security prototype that uses machine learning to distinguish real threats from harmless events — so your alarm only goes off when it truly matters.
  
