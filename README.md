@@ -91,16 +91,15 @@ The full implementation is available in a single self-contained script:
 ```
 safeguard-ai/
 │
-├── safeguard_ai.py                # Main pipeline (dataset → EDA → train → simulate)
 ├── assets/
 │   ├── safeguardai-logo.png
 │   ├── safeguardai-product.png
 │   └── safeguardai-use.png
-├── safeguard_eda_plot.png         # Auto-generated: sensor averages per class
+├── LICENSE  
+├── README.md    
+├── safeguard_ai.py                # Main pipeline (dataset → EDA → train → simulate)
 ├── safeguard_confusion_matrix.png # Auto-generated: model evaluation
-├── README.md                      # English
-├── README.it.md                   # Italian
-└── LICENSE
+└── safeguard_eda_plot.png         # Auto-generated: sensor averages per class
 ```
 
 👉 [`safeguard_ai.py`](./safeguard_ai.py)
