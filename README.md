@@ -193,7 +193,7 @@ Developed by students as part of the **Artificial Intelligence course** within t
 - **Carmelo Vicari** — [@carmelo19vicari](https://github.com/carmelo19vicari)
 - **Carmelo Vicari** — [@VicariCarmelo8](https://github.com/VicariCarmelo8)
 
-**Instructor:** Luisa Gangi Chiodo — [@lujsa](https://github.com/lujsa)
+**Al Educator & Machine Learning Technical Mentor:** Luisa Gangi Chiodo — [@lujsa](https://github.com/lujsa)
 
 ---
 
